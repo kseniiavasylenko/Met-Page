@@ -5,7 +5,7 @@ The project recreates the museum's website design with a focus on responsive lay
 
 ## Live Preview
 
-Experience the live website: [THE MET Demo](https://github.com/kseniiavasylenko/Met-page/)
+Experience the live website: [THE MET Demo](https://kseniiavasylenko.github.io/Met-Page/)
 Design Reference
 
 The project was created based on the following Figma design:
@@ -13,8 +13,8 @@ The project was created based on the following Figma design:
 [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET) — Figma Design
 
 ## Technologies Used
-HTML5
-CSS3
+HTML
+CSS
 Sass (SCSS)
 BEM methodology
 CSS Grid
